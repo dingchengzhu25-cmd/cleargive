@@ -1,0 +1,16 @@
+{
+  "name": "cleargive",
+  "pages_build_output_dir": "dist",
+  "compatibility_date": "2026-10-13",
+  "d1_databases": [{
+    "binding": "SANDBOX_DB",
+    "database_name": "YOUR_CLASSROOM_DATABASE",
+    "database_id": "REPLACE_WITH_YOUR_DATABASE_ID"
+  }],
+  "vars": {
+    "CHAIN_ID": "11155111",
+    "RPC_URL": "https://ethereum-sepolia-rpc.publicnode.com",
+    "FACTORY_ADDRESS": "",
+    "STRAITSX_ENV": "sandbox"
+  }
+}

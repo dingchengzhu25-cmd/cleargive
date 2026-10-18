@@ -1,0 +1,24 @@
+{
+  "name": "cleargive",
+  "version": "2.0.0",
+  "private": true,
+  "packageManager": "pnpm@11.25.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "dev": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "5.4.0",
+    "buffer": "6.0.3",
+    "ethers": "6.15.0",
+    "ganache": "7.9.2",
+    "memdown": "6.1.1"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.10",
+    "solc": "0.8.30"
+  }
+}

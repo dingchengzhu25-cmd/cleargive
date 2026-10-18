@@ -1,0 +1,8 @@
+{
+  "chainId": 11155111,
+  "rpcUrl": "https://ethereum-sepolia-rpc.publicnode.com",
+  "factoryAddress": "",
+  "allowMainnetTransactions": false,
+  "evidenceApi": "/api",
+  "paymentMode": "unconfigured"
+}
