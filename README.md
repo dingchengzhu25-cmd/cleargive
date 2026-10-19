@@ -6,8 +6,17 @@ The working demo runs entirely in the browser, on a **local Ganache chain (chain
 
 > **Status: research prototype.** ClearGive was built as a student project. It has automated functional tests but **no security audit**. Do not deploy it with real funds.
 
+## Video Demo
+
+[![Watch the ClearGive demonstration](docs/media/cleargive-demo-thumbnail.png)](https://www.youtube.com/watch?v=rdMne-F3ydI)
+
+Watch the narrated walkthrough (2:27) of ClearGive's donation with the 1% fee, evidence submission and two-reviewer approval, conditional supplier payment, and a separate eligible-refund scenario.
+
+Prototype demonstration using simulated funds on a browser-local blockchain. The video was recorded from a local build of this repository; campaigns and people are fictional.
+
 ## Contents
 
+- [Video Demo](#video-demo)
 - [Use case](#use-case)
 - [What is implemented](#what-is-implemented)
 - [What this prototype does not establish](#what-this-prototype-does-not-establish)
